@@ -1,1 +1,1 @@
-## You will find everything you need in the /Project folder
+## Geethika Hemkumar - Predict Bike Sharing Demand with AutoGluon Project Submission
